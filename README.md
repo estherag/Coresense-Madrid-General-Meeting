@@ -1,5 +1,7 @@
 # CoreSense General Meeting – Madrid, URJC Aranjuez
 
+**Website:** https://coresenseeu.github.io/Coresense-Madrid-General-Meeting/
+
 This repository contains the static website for the **CoreSense Horizon Europe project General Meeting**, hosted at Universidad Rey Juan Carlos (URJC), Campus de Aranjuez, on **28–29 May 2026**.
 
 The site has three pages:
