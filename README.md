@@ -2,7 +2,7 @@
 
 **Website:** https://coresenseeu.github.io/Coresense-Madrid-General-Meeting/
 
-This repository contains the static website for the **CoreSense Horizon Europe project General Meeting**, hosted at Universidad Rey Juan Carlos (URJC), Campus de Aranjuez, on **28–29 May 2026**.
+This repository contains the static website for the **CoreSense Horizon Europe project General Meeting**, hosted at Universidad Rey Juan Carlos (URJC), Campus de Aranjuez, on **27–28 May 2026**.
 
 The site has three pages:
 
@@ -134,8 +134,8 @@ Column reference:
 | Institution | Consortium partner (UPM, URJC, TU Delft, Fraunhofer IPA, PAL Robotics, IMR, CTU Prague) |
 | Country | Country of your institution |
 | E-mail | Contact e-mail (wrapped in `<a href="mailto:…">`) |
-| Day 1 | Attending 28 May? Use `✓` or `—` |
-| Day 2 | Attending 29 May? Use `✓` or `—` |
+| Day 1 | Attending 27 May? Use `✓` or `—` |
+| Day 2 | Attending 28 May? Use `✓` or `—` |
 | Notes | Any relevant remark (optional) |
 
 ---
@@ -180,7 +180,7 @@ Column reference:
 
 ### Social activity sign-up (`venue.html`)
 
-The social activity is a guided visit to the **Palacio Real de Aranjuez** on the afternoon of Day 2 (29 May, ~14:30 departure).
+The social activity is a guided visit to the **Palacio Real de Aranjuez** on the afternoon of Day 2 (28 May, ~14:30 departure).
 
 Find the comment inside the social-activity table `<tbody>`:
 
